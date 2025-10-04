@@ -96,4 +96,4 @@ Vous êtes libre de le réutiliser, modifier et partager.
 
 ## Auteur
 **Ny Avo Steeve** — *Matricule : 225*  
-Projet Docker réalisé dans le cadre d’un exercice pratique.
+Projet Docker réalisé dans le cadre d’un examen.
