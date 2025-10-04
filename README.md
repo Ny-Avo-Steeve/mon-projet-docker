@@ -5,13 +5,13 @@
 
 ---
 
-## 🐳 Description
+## Description
 Ce projet contient une petite application Python **Flask** affichant un message simple.  
 L'objectif est de **dockeriser** cette application et de la rendre facilement déployable.
 
 ---
 
-## 🧭 Cheat Sheet Docker
+## Cheat Sheet Docker
 
 ### 🔹 Gestion des images
 - `docker pull <image>` : Télécharger une image depuis Docker Hub  
@@ -39,7 +39,7 @@ L'objectif est de **dockeriser** cette application et de la rendre facilement d�
 
 ---
 
-## 🚀 Instructions pour lancer le projet
+## Instructions pour lancer le projet
 
 ### 1️⃣ Cloner le repository
 ```bash
@@ -66,7 +66,7 @@ docker-compose up --build
 
 ### 4️⃣ Tester l’application
 Ouvrez votre navigateur à l’adresse suivante :  
-👉 [http://localhost:5000](http://localhost:5000)  
+ [http://localhost:5000](http://localhost:5000)  
 
 Vous devriez voir :  
 ```
@@ -88,12 +88,12 @@ docker-compose down
 
 ---
 
-## 📄 Licence
+## Licence
 Ce projet est sous licence **MIT**.  
 Vous êtes libre de le réutiliser, modifier et partager.
 
 ---
 
-## 👨‍💻 Auteur
+## Auteur
 **Ny Avo Steeve** — *Matricule : 225*  
 Projet Docker réalisé dans le cadre d’un exercice pratique.
